@@ -1,6 +1,6 @@
 import urllib.request
 
-for i in range(1,151):
+for i in range(1,152):
     i=str(i)
     if(len(i)<=3):
         zeros = 3 - len(i)
