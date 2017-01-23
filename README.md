@@ -9,6 +9,9 @@ This python script allows you to batch convert all files within the same directo
 ### pokemonIconDL
 Downloads all the original 151 Pokemon icons from `serebii.net`  
 
+### Recommend
+Recommend is a simple python recommendation engine, using Standard Deviation and Thershold to recommend missing items.
+
 ## License
 MIT License
 
