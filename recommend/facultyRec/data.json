@@ -1,0 +1,61 @@
+[
+    {
+        "userID": 12345678,
+        "itemReviews": [
+            {
+                "unitCode": "FIT1045",
+                "rating": 3
+            },
+            {
+                "unitCode": "FIT1047",
+                "rating": 4
+            },
+            {
+                "unitCode": "ATS1020",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "userID": 27849821,
+        "itemReviews": [
+            {
+                "unitCode": "BFF1001",
+                "rating": 3
+            },
+            {
+                "unitCode": "FIT1047",
+                "rating": 4
+            },
+            {
+                "unitCode": "ACF1200",
+                "rating": 2
+            },
+            {
+                "unitCode": "FIT1045",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "userID": 98564721,
+        "itemReviews": [
+            {
+                "unitCode": "ATS1020",
+                "rating": 4
+            },
+            {
+                "unitCode": "ATS1045",
+                "rating": 4
+            },
+            {
+                "unitCode": "ENG1001",
+                "rating": 4
+            },
+            {
+                "unitCode": "FIT1045",
+                "rating": 4
+            }
+        ]
+    }
+]
